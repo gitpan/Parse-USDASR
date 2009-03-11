@@ -15,6 +15,7 @@ no_index:
   directory:
     - inc
     - t
+    - examples
 requires:
   Rubyish: 0
-version: 0.01
+version: 0.02

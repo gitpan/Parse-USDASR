@@ -1,4 +1,5 @@
 Changes
+examples/sr21_to_sqlite3.pl
 inc/Module/Install.pm
 inc/Module/Install/AuthorTests.pm
 inc/Module/Install/Base.pm
